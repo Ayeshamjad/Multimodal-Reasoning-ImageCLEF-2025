@@ -2,7 +2,11 @@
 Zero-shot pipeline for Visual Question Answering in the ImageCLEF 2025 Multimodal Reasoning task. 
 ---
 
-## 🔍 System Overview
+##  Task Page & Dataset
+This submission corresponds to the [ImageCLEF 2025 Multimodal Reasoning task](https://www.imageclef.org/2025/multimodalreasoning), which involves Multilingual Visual Question Answering (VQA) over complex exam-style images. The challenge details the goal, dataset, evaluation format, and leaderboard setup.:contentReference[oaicite:2]{index=2}
+---
+
+## System Overview
 
 This pipeline addresses the multilingual VQA task by:
 
@@ -13,7 +17,7 @@ This pipeline addresses the multilingual VQA task by:
 
 ---
 
-## 🏆 Results (CLEF Leaderboards)
+## Results (CLEF Leaderboards)
 
 > Our approach placed in the top-3 in several tracks — read more in the [CLEF Working Notes](https://clef2025.clef-initiative.eu/).
 
