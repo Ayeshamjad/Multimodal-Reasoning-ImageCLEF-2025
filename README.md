@@ -1,10 +1,16 @@
 # Multimodal-Reasoning-ImageCLEF-2025
-Zero-shot pipeline for Visual Question Answering in the ImageCLEF 2025 Multimodal Reasoning task. 
+
+Zero-shot pipeline for Visual Question Answering (VQA) in the ImageCLEF 2025 Multimodal Reasoning task.
+
 ---
 
-##  Task Page & Dataset
-This submission corresponds to the [ImageCLEF 2025 Multimodal Reasoning task](https://www.imageclef.org/2025/multimodalreasoning), which involves Multilingual Visual Question Answering (VQA) over complex exam-style images. The challenge details the goal, dataset, evaluation format, and leaderboard setup.:contentReference[oaicite:2]{index=2}
+## 🔗 Task Page & Dataset
+
+This submission corresponds to the [ImageCLEF 2025 Multimodal Reasoning task](https://www.imageclef.org/2025/multimodalreasoning), which involves Multilingual Visual Question Answering (VQA) over complex exam-style images.  
+The challenge page includes the dataset details, task description, evaluation format, and leaderboard.
+
 ---
+
 
 ## System Overview
 
