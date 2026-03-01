@@ -25,5 +25,5 @@ This pipeline addresses the multilingual VQA task by:
 
 ## Results (CLEF Leaderboards)
 
-> Our approach placed in the top-3 in several tracks — read more in the [CLEF Working Notes](https://clef2025.clef-initiative.eu/).
+> Our approach placed in the top-3 in several tracks — read more in the [CLEF Working Notes](https://clef2025.clef-initiative.eu/)..
 
