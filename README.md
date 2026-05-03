@@ -19,7 +19,7 @@ This pipeline addresses the multilingual VQA task by:
 1. Accepting an image of an exam question (with MCQs, tables, graphs, diagrams, etc.).
 2. Extracting structured JSON (question, options, visuals) using **Gemini** with a layout-aware zero-shot prompt.
 3. Performing answer selection using **DeepSeek-R1-Distill-LLaMA** via a strict, reasoning-free prompt.
-4. Outputting results in a `pred.json` file for evaluation.
+4. Outputting results in a `pred.json` file for evaluation
 
 ---
 
